@@ -21,9 +21,9 @@ I'm wanting to hope more people will actually contribute to this utility at some
     * HEN, CFW (PS3)<br />
     * OFW (PS3, PS4, PS5)<br />
 * Packages
-      * Unknown
-      * Unknown
-      * Unknown
+    * Unknown
+    * Unknown
+    * Unknown
 * More features soon
 
 
