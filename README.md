@@ -18,6 +18,9 @@ I'm wanting to hope more people will actually contribute to this utility at some
 
 # Features (To be added)
 * Jailbreak (???)<br />
+    * PS3<br />
+    * PS4<br />
+    * PS5<br />
 * Firmware Downloader (???)<br />
     * CFW<br />
         * PS3<br />
