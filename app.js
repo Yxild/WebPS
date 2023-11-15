@@ -7,9 +7,12 @@ const App = Express();
 
 // Public
 App.use(function(Request, Response, Next) {
-    const ipaddr = Crypto.createHmac("sha256", process.env.SERVERKEY).update(Request.ip).digest("hex")
-    console.log(`PSWEBI : ${ipaddr} ${Request.method} ${Request.url}`);
-    Next();
+    if (process.ENV.DEBUGGING) {
+        const ipaddr = Crypto.createHmac("sha256", process.env.SERVERKEY).update(Request.ip).digest("hex");
+
+        console.log(`PSWEBI : ${ipaddr} ${Request.method} ${Request.url}`);
+        Next();
+    }
 });
 
 App.use(Express.json());
