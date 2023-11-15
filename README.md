@@ -1,3 +1,6 @@
+*Utility aliases consist of WEBI (Web Interactive) and WEBPS (Web Utility PlayStation)*
+
+
 # Welcome
 Welcome to the offical repo for WebPS, it's a utility created by Lithium Development & Contributors.
 This utility is a Easy-To-Use utility meant for various stuff e.g. Jailbreaking, Firmwares 'n more!
