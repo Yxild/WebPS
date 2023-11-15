@@ -19,8 +19,14 @@ I'm wanting to hope more people will actually contribute to this utility at some
 # Features (To be added)
 * Jailbreak (???)<br />
 * Firmware Downloader (???)<br />
-    * HEN, CFW (PS3)<br />
-    * OFW (PS3, PS4, PS5)<br />
+    * CFW<br />
+        * PS3<br />
+    * HFW<br />
+        * PS3<br />
+    * OFW<br />
+        * PS3<br />
+        * PS4<br />
+        * PS5<br />
 * Packages
     * Unknown
     * Unknown
