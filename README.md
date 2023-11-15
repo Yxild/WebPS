@@ -37,5 +37,14 @@ Crypto > Hashing Information for Debugging<br />
 dotenv > .env File<br />
 
 
+## Dotenv File
+```dotenv
+APIURL=/api/v1/
+SERVERKEY="???"
+PORT=80
+DEBUGGING=false
+```
+
+
 # Discord Server
 n/a currently
