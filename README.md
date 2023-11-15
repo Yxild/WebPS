@@ -20,6 +20,10 @@ I'm wanting to hope more people will actually contribute to this utility at some
 * Firmware Downloader (???)<br />
     * HEN, CFW (PS3)<br />
     * OFW (PS3, PS4, PS5)<br />
+* Packages
+      * ???
+      * ???
+      * ???
 * More features soon
 
 
