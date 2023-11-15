@@ -27,5 +27,15 @@ I'm wanting to hope more people will actually contribute to this utility at some
 * More features soon
 
 
+# Node Server
+This is some parts of the node server, information included
+To start the node server please run `node ./app.js`
+
+## Node Packages
+Express.JS > Web Server<br />
+Crypto > Hashing Information for Debugging<br />
+dotenv > .env File<br />
+
+
 # Discord Server
 n/a currently
