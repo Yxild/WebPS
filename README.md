@@ -1,4 +1,5 @@
 *Utility aliases consist of WEBI (Web Interactive) and WEBPS (Web Utility PlayStation)*
+*This is also a Web Server, the **public/** path is the Web Directories, **WEBPS/** is the API files*
 
 
 # Welcome
